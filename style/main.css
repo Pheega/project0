@@ -1,5 +1,8 @@
 header {background-color: white;}
-body {background-color: lightgray;}
+body {background-color: tomato;}
 .active {text-decoration: line-through;}
 
+.nav .navbar .navbar-item .navbar-link {
+
+}
 
