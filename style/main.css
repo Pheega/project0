@@ -2,7 +2,6 @@ header {background-color: white;}
 body {background-color: tomato;}
 .active {text-decoration: line-through;}
 
-.nav .navbar .navbar-item .navbar-link {
-
-}
-
+.container {width: 1200px;
+            padding: 0 50px;
+            }
